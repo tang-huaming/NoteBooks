@@ -9,7 +9,7 @@
 ### 参考资料
 - 【1】[树莓派瑞士军刀扩展板 SAKS SDK 发布](http://shumeipai.nxez.com/2015/09/21/saks-sdk-released.html)
 - 【2】[树莓派瑞士军刀扩展板 SAKS SDK 升级](http://shumeipai.nxez.com/2016/06/10/saks-sdk-released-v2.html)
-- 【2】[树莓派“瑞士军刀”扩展板（SAKS）DIY 教程](http://shumeipai.nxez.com/swiss-army-knife-shield-for-raspberry-pi-diy-tutorials)
+- 【3】[树莓派“瑞士军刀”扩展板（SAKS）DIY 教程](http://shumeipai.nxez.com/swiss-army-knife-shield-for-raspberry-pi-diy-tutorials)
 
 # 配置环境
 下载下来的SDK顶级目录名称为`SAKS-SDK`,我们可以将这个文件夹放置到任意位置，我将它放置到如下位置：
