@@ -2,6 +2,7 @@
 ## 1 安装JVM
 
 首先，你需要Java 8的JRE，下载地址如下：
+
 [Java SE Development Kit 8 Downloads](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 ## 2 下载Eclipse IDE for C/C++ Developers
