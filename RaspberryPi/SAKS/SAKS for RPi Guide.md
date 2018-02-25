@@ -1,3 +1,5 @@
+# 有关SAKS
+树莓派瑞士军刀扩展板（SAKS for RPi）是一款适用于40Pin树莓派的多功能扩展板，有关它的介绍请参看：[树莓派“瑞士军刀”扩展板（SAKS）](http://shumeipai.nxez.com/swiss-army-knife-shield-for-raspberry-pi)
 # 下载SDK
 树莓派瑞士军刀扩展板SAKS SDK已经在github上开源，可以通过下面的命令下载：
 > git clone https://github.com/spoonysonny/SAKS-SDK.git
@@ -30,3 +32,6 @@ source ~/.profile
 ```
 
 至此，SAKS SDK的环境就已经配置完毕，你就可以使用Python的`import`命令导入相关的模块并使用了。
+
+# 更多
+有关瑞士军刀的教程请从[树莓派“瑞士军刀”扩展板（SAKS）DIY 教程](http://shumeipai.nxez.com/swiss-army-knife-shield-for-raspberry-pi-diy-tutorials)开始
