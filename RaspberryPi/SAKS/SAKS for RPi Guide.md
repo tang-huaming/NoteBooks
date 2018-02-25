@@ -8,6 +8,7 @@
 
 ![SAKS SDK目录结构](http://i1.piimg.com/589674/ef9af54de96227db.png)
 
+**注意：**此sdk使用的是`python2`编写，在编写代码时需要注意这个细节！
 ### 参考资料
 - 【1】[树莓派瑞士军刀扩展板 SAKS SDK 发布](http://shumeipai.nxez.com/2015/09/21/saks-sdk-released.html)
 - 【2】[树莓派瑞士军刀扩展板 SAKS SDK 升级](http://shumeipai.nxez.com/2016/06/10/saks-sdk-released-v2.html)
